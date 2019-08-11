@@ -2,7 +2,7 @@ My first RaspberryPi project; periodically drives GPIO.0 (WiringPi numbering) hi
 
 ## Prerequisites
 
-### WiringPi
+### [WiringPi](http://wiringpi.com/)
 
     sudo apt install wiringpi
 
