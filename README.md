@@ -6,3 +6,9 @@ My first RaspberryPi project; periodically drives GPIO.0 (WiringPi numbering) hi
 
     sudo apt install wiringpi
 
+## Building
+
+    mkdir build
+    cd build
+    cmake ..
+    make
